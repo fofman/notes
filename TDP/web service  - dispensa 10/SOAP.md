@@ -11,3 +11,7 @@ La struttura dei messaggi XML è formata da:
 - ==**Envelope**==: contiene ==Header== e il ==Body==.
 - **Header**: informazioni per routing e autenticazione.
 - **Body**: contenuto utile.
+
+La presenza di regole che aumentano la complessità di realizzazione ed e i tempi di elaborazione.
+Oltre a questa struttura bisogna seguire standard di conformità, dettati dalle proprietà ACID:
+- **(A) Atomicità**: i dati devono essere salvati 
