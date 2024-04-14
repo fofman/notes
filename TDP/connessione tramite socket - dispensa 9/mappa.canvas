@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"1440bee18364a57f","type":"text","text":"AF_INET","x":320,"y":-300,"width":250,"height":60,"color":"2"},
+		{"id":"8bc23229b688ce66","type":"text","text":"AF_UNIX","x":320,"y":-180,"width":250,"height":60,"color":"2"},
+		{"id":"7fa34417820f2f04","type":"text","text":"Connessione con socket","x":-131,"y":-240,"width":250,"height":60,"color":"1"},
+		{"id":"6136ac80ae1eef1c","type":"text","text":"Stream socket","x":-420,"y":82,"width":250,"height":60,"color":"2"},
+		{"id":"3967ca6d6aad7210","type":"text","text":"Datagram socket","x":-131,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"daca7b0e0f9d3c58","type":"text","text":"Protocollo TCP","x":-420,"y":240,"width":250,"height":60,"color":"2"},
+		{"id":"029f3317eb89c3d1","type":"file","file":"TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md","x":-740,"y":-380,"width":400,"height":340},
+		{"id":"537fcd7ade2bb05f","type":"text","text":"Multicast","x":-131,"y":600,"width":250,"height":60,"color":"2"},
+		{"id":"3f50d4f939a56e74","type":"text","text":"Protocollo UDP","x":-131,"y":360,"width":250,"height":60,"color":"2"},
+		{"id":"175d3189b5b8491d","x":-206,"y":760,"width":400,"height":400,"type":"file","file":"TDP/connessione tramite socket - dispensa 9/Multicast.md"},
+		{"id":"c1e8300e705fe96d","x":170,"y":300,"width":400,"height":400,"type":"file","file":"TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md"},
+		{"id":"e0c99cc73d6310b7","type":"text","text":"Raw socket","x":245,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"352ea53671b8d206","type":"text","text":"Realizzare protocolli","x":575,"y":80,"width":250,"height":60,"color":"2"},
+		{"id":"2f0d308746507d95","x":-740,"y":430,"width":400,"height":400,"type":"file","file":"TDP/connessione tramite socket - dispensa 9/Stream socket.md"}
+	],
+	"edges":[
+		{"id":"4d31f69b983bd815","fromNode":"7fa34417820f2f04","fromSide":"right","toNode":"1440bee18364a57f","toSide":"left"},
+		{"id":"c9f965b047e2d035","fromNode":"7fa34417820f2f04","fromSide":"right","toNode":"8bc23229b688ce66","toSide":"left"},
+		{"id":"600020c1d85ffaf3","fromNode":"7fa34417820f2f04","fromSide":"bottom","toNode":"3967ca6d6aad7210","toSide":"top"},
+		{"id":"d7459402cc446324","fromNode":"7fa34417820f2f04","fromSide":"bottom","toNode":"6136ac80ae1eef1c","toSide":"top"},
+		{"id":"841e92e16538ec1f","fromNode":"7fa34417820f2f04","fromSide":"bottom","toNode":"e0c99cc73d6310b7","toSide":"top"},
+		{"id":"9eccde1eaa536aac","fromNode":"6136ac80ae1eef1c","fromSide":"bottom","toNode":"daca7b0e0f9d3c58","toSide":"top"},
+		{"id":"ab37094ded50dab0","fromNode":"3967ca6d6aad7210","fromSide":"bottom","toNode":"3f50d4f939a56e74","toSide":"top"},
+		{"id":"09d3269e99e20b47","fromNode":"e0c99cc73d6310b7","fromSide":"right","toNode":"352ea53671b8d206","toSide":"left"},
+		{"id":"f07ebec883e06bb4","fromNode":"7fa34417820f2f04","fromSide":"left","toNode":"029f3317eb89c3d1","toSide":"right"},
+		{"id":"a6b19d7febfc0c67","fromNode":"3f50d4f939a56e74","fromSide":"bottom","toNode":"537fcd7ade2bb05f","toSide":"top"},
+		{"id":"6639b2a2e50d2949","fromNode":"537fcd7ade2bb05f","fromSide":"bottom","toNode":"175d3189b5b8491d","toSide":"top"},
+		{"id":"60c7317a1ff48a48","fromNode":"3967ca6d6aad7210","fromSide":"bottom","toNode":"c1e8300e705fe96d","toSide":"top"},
+		{"id":"0050e156906fab22","fromNode":"daca7b0e0f9d3c58","fromSide":"bottom","toNode":"2f0d308746507d95","toSide":"top"}
+	]
+}

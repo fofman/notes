@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "48bda968ef63e1bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "60607fc695fb3da6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df95cc50c3c57174",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6e03794ada6fbd0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "872643cff64c5adb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b30e9c6d2e579e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ca79c40ff71b42cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "47aa9b2eb2762272",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "right": {
+    "id": "a8fbbbe06ef239ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "18e866ee22d08a91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb29ce66397ac370",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04023b0647fec1f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a697b202eb53e709",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a1fb7f37a00732b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5533f67cce50bd14",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "df95cc50c3c57174",
+  "lastOpenFiles": [
+    "TDP/web service  - dispensa 10/Web service.md",
+    "TDP/web service  - dispensa 10/mappa.canvas",
+    "TDP/web service  - dispensa 10/Architettura SOA.md",
+    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+    "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
+    "TDP/connessione tramite socket - dispensa 9/Multicast.md",
+    "TDP/web service  - dispensa 10",
+    "TDP/comunicazione di rete - dispensa 8/UDP.md",
+    "TDP/comunicazione di rete - dispensa 8/Socket.md",
+    "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
+    "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
+    "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
+    "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+    "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
+    "TDP/comunicazione di rete - dispensa 8/TCP.md",
+    "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
+    "TDP/comunicazione di rete - dispensa 8/Association.md",
+    "TDP/connessione tramite socket - dispensa 9",
+    "TDP/Untitled.md",
+    "TDP/comunicazione di rete - dispensa 8",
+    "immagini",
+    "immagini/Pasted image 20240405162349.png",
+    "TDP",
+    "Welcome.md"
+  ]
+}

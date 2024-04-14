@@ -1,0 +1,1 @@
+UDP acronimo di User Datagram Protocol è un **protocollo** ==senza connessione== e ==senza controllo dell'integrità==, per la sua semplicità è più veloce di TCP.

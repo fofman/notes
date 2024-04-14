@@ -1,0 +1,1 @@
+Architettura che collega diversi servizi in rete tramite l'utilizzo di web service. Questo permette di implementare e gestire in modo modulare le funzioni.

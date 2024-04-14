@@ -1,0 +1,1 @@
+TCP acronimo di Transmission Control Protocol è un **protocollo** ==orientato alla connessione== che permette il controllo dell'==integrità dei dati== e la gestione di pacchetti errati

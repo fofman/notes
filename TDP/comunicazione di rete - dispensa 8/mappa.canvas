@@ -1,0 +1,41 @@
+{
+	"nodes":[
+		{"id":"b872a2a0a4e82008","type":"text","text":"Applicazioni di rete","x":-600,"y":-580,"width":250,"height":60,"color":"2"},
+		{"id":"27288696ca2d9388","type":"text","text":"Più computer","x":-600,"y":-440,"width":250,"height":60,"color":"2"},
+		{"id":"dc7111ab3f599f4b","type":"text","text":"Per livello ISO/OSI TCP-IP","x":225,"y":-580,"width":250,"height":60,"color":"2"},
+		{"id":"d43daa1a2647e407","type":"text","text":"## Protocolli di rete","x":-260,"y":-580,"width":280,"height":60,"color":"1"},
+		{"id":"515830b8f07b11d0","type":"text","text":"Due byte","x":-245,"y":-200,"width":250,"height":60,"color":"2"},
+		{"id":"d71257e07d12fc8c","type":"text","text":"Porte logiche","x":-245,"y":-380,"width":250,"height":60,"color":"2"},
+		{"id":"d9126867a50ba276","type":"file","file":"TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md","x":-750,"y":-40,"width":400,"height":352},
+		{"id":"8ad2f058a1ecf23b","type":"file","file":"TDP/comunicazione di rete - dispensa 8/TCP.md","x":-1315,"y":-170,"width":360,"height":230},
+		{"id":"f5dec7004709246c","type":"file","file":"TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md","x":-1315,"y":-715,"width":565,"height":390},
+		{"id":"0b2394c5bb8349a3","type":"file","file":"TDP/comunicazione di rete - dispensa 8/Le porte logiche.md","x":115,"y":-440,"width":470,"height":270},
+		{"id":"d77ebfa78daa9352","type":"text","text":"Association","x":55,"y":45,"width":250,"height":60,"color":"2"},
+		{"id":"537ec121e863e8a6","type":"file","file":"TDP/comunicazione di rete - dispensa 8/Association.md","x":105,"y":210,"width":400,"height":263},
+		{"id":"8da1e03efe974c34","type":"text","text":"Protocollo","x":575,"y":-55,"width":250,"height":60,"color":"2"},
+		{"id":"b2ed6316d63a9f7e","type":"text","text":"Indirizzo IP porta locale","x":575,"y":45,"width":250,"height":60,"color":"2"},
+		{"id":"efcf78de5b8a5bd7","type":"text","text":"Indirizzo IP porta remota","x":575,"y":145,"width":250,"height":60,"color":"2"},
+		{"id":"78f9324e361b9c0a","type":"file","file":"TDP/comunicazione di rete - dispensa 8/Socket.md","x":-302,"y":210,"width":382,"height":263},
+		{"id":"afb10c7b13f6829d","type":"text","text":"Socket","x":-245,"y":45,"width":250,"height":60,"color":"2"},
+		{"id":"2c53a8904078ce0d","type":"file","file":"TDP/comunicazione di rete - dispensa 8/UDP.md","x":-1315,"y":175,"width":360,"height":219}
+	],
+	"edges":[
+		{"id":"418e2c8d7438444b","fromNode":"b872a2a0a4e82008","fromSide":"bottom","toNode":"27288696ca2d9388","toSide":"top"},
+		{"id":"1881c6bb5498f33f","fromNode":"d43daa1a2647e407","fromSide":"left","toNode":"b872a2a0a4e82008","toSide":"right"},
+		{"id":"fd2edfbc54925e90","fromNode":"d71257e07d12fc8c","fromSide":"bottom","toNode":"515830b8f07b11d0","toSide":"top"},
+		{"id":"bc0b589151fcba52","fromNode":"515830b8f07b11d0","fromSide":"bottom","toNode":"afb10c7b13f6829d","toSide":"top"},
+		{"id":"47ffbb81d7169f8e","fromNode":"afb10c7b13f6829d","fromSide":"right","toNode":"d77ebfa78daa9352","toSide":"left"},
+		{"id":"e637844817dc94f6","fromNode":"d77ebfa78daa9352","fromSide":"right","toNode":"8da1e03efe974c34","toSide":"left"},
+		{"id":"e191b0d7c5ee03a7","fromNode":"d77ebfa78daa9352","fromSide":"right","toNode":"b2ed6316d63a9f7e","toSide":"left","label":"Composta da"},
+		{"id":"8b5029d20bd9bdea","fromNode":"d77ebfa78daa9352","fromSide":"right","toNode":"efcf78de5b8a5bd7","toSide":"left"},
+		{"id":"5d6b10c9c5336ec7","fromNode":"d43daa1a2647e407","fromSide":"bottom","toNode":"d71257e07d12fc8c","toSide":"top"},
+		{"id":"444f0642b1ac1e2c","fromNode":"d43daa1a2647e407","fromSide":"right","toNode":"dc7111ab3f599f4b","toSide":"left"},
+		{"id":"7e1b172021e8a7ef","fromNode":"b872a2a0a4e82008","fromSide":"left","toNode":"f5dec7004709246c","toSide":"right"},
+		{"id":"640d27eb8a59be8f","fromNode":"27288696ca2d9388","fromSide":"bottom","toNode":"d9126867a50ba276","toSide":"top"},
+		{"id":"2b64a3df072a14e8","fromNode":"d9126867a50ba276","fromSide":"left","toNode":"8ad2f058a1ecf23b","toSide":"right"},
+		{"id":"fddadc17df4768e7","fromNode":"d9126867a50ba276","fromSide":"left","toNode":"2c53a8904078ce0d","toSide":"right"},
+		{"id":"628c69eacb0ca463","fromNode":"afb10c7b13f6829d","fromSide":"bottom","toNode":"78f9324e361b9c0a","toSide":"top"},
+		{"id":"9015f2820c4e530c","fromNode":"d71257e07d12fc8c","fromSide":"right","toNode":"0b2394c5bb8349a3","toSide":"left"},
+		{"id":"84e7c5c8e09f1ef8","fromNode":"d77ebfa78daa9352","fromSide":"bottom","toNode":"537ec121e863e8a6","toSide":"top"}
+	]
+}
