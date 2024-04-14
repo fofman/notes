@@ -5,4 +5,8 @@ SOAP (Simple Object Access Protocol) è un ==protocollo== per lo scambio di mess
 3. **Ritorno WSDL**: se la ricerca ha successo ==viene restituito il documento WSDL== contenente i metodi per usare il servizio.
 4. **Richiesta e risposta SOAP**: il client interroga il server tramite il componente ==stub== e il server tramite ==skeleton==, gestendo così la comunicazione in modo automatico.
 ### Compilazione
-I due componenti stub e skeleton servono da adattatori fra il linguaggio di programmazione impiegato e lo standard per la comunicazione in modo da utilizzare un formato fisso che devono rispettare tutti
+I due componenti stub e skeleton servono da adattatori fra il linguaggio di programmazione impiegato e lo standard per la comunicazione in modo da utilizzare un formato fisso che devono rispettare tutti.
+##### struttura
+La struttura dei messaggi XML è formata da:
+- **Envelope**: contiene ==Header== e il ==Body==.
+- **Header**
