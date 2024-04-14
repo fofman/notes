@@ -12,7 +12,8 @@
 		{"id":"449507ef2a423198","type":"file","file":"TDP/web service  - dispensa 10/Web service.md","x":-300,"y":-680,"width":400,"height":400},
 		{"id":"09fa87400eca6d8c","type":"file","file":"TDP/web service  - dispensa 10/Architettura SOA.md","x":-580,"y":55,"width":400,"height":190},
 		{"id":"b5649f8d3c6c76c8","type":"text","text":"Descrizione di risorse","x":261,"y":480,"width":250,"height":60,"color":"2"},
-		{"id":"14a4fb63defb5a70","type":"text","text":"Invocazione servizi remoti","x":-216,"y":480,"width":250,"height":60,"color":"2"}
+		{"id":"14a4fb63defb5a70","type":"text","text":"Invocazione servizi remoti","x":-216,"y":480,"width":250,"height":60,"color":"2"},
+		{"id":"4df7091401c1197c","x":251,"y":-651,"width":400,"height":342,"type":"file","file":"TDP/web service  - dispensa 10/Scambio di dati - XML.md"}
 	],
 	"edges":[
 		{"id":"20deac0b912a2311","fromNode":"88f31902dcb9bbc1","fromSide":"right","toNode":"f91b19ce5fae4ad0","toSide":"left"},
@@ -26,6 +27,7 @@
 		{"id":"84f321983955577a","fromNode":"3b57ca2cbfbea962","fromSide":"bottom","toNode":"b5649f8d3c6c76c8","toSide":"top"},
 		{"id":"83d46d9e7372f6d6","fromNode":"88f31902dcb9bbc1","fromSide":"left","toNode":"6af6dd74bb24fa18","toSide":"right"},
 		{"id":"8b7bd2479c232cbd","fromNode":"449507ef2a423198","fromSide":"bottom","toNode":"88f31902dcb9bbc1","toSide":"top"},
-		{"id":"c691d5d64c30bac3","fromNode":"bb7ca71dcf973043","fromSide":"left","toNode":"09fa87400eca6d8c","toSide":"right"}
+		{"id":"c691d5d64c30bac3","fromNode":"bb7ca71dcf973043","fromSide":"left","toNode":"09fa87400eca6d8c","toSide":"right"},
+		{"id":"887f60feaed4ac2d","fromNode":"4df7091401c1197c","fromSide":"bottom","toNode":"6f899d3c475f912c","toSide":"top"}
 	]
 }
