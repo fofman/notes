@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+                "file": "TDP/web service  - dispensa 10/Web service.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "8bdec68b3d770fd3",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
-                "viewState": {
-                  "x": 150.5,
-                  "y": 367.90997818974927,
-                  "zoom": -0.9414831926711377
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/web service  - dispensa 10/Web service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/web service  - dispensa 10/Web service.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas"
+                "file": "TDP/web service  - dispensa 10/Web service.md"
               }
             }
           },
@@ -171,16 +155,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bdec68b3d770fd3",
+  "active": "df95cc50c3c57174",
   "lastOpenFiles": [
-    "TDP/web service  - dispensa 10/CRUD.md",
-    "TDP/web service  - dispensa 10/mappa.canvas",
-    "TDP/web service  - dispensa 10/Architettura SOA.md",
-    "TDP/web service  - dispensa 10/Web service.md",
-    "TDP/web service  - dispensa 10/scambio di dati - xml.md",
-    "TDP/web service  - dispensa 10/REST.md",
     "TDP/web service  - dispensa 10/SOAP.md",
+    "TDP/web service  - dispensa 10/scambio di dati - xml.md",
+    "TDP/web service  - dispensa 10/Web service.md",
     "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+    "XML.md",
+    "TDP/web service  - dispensa 10/mappa.canvas",
+    "TDP/web service  - dispensa 10/CRUD.md",
+    "TDP/web service  - dispensa 10/Architettura SOA.md",
+    "TDP/web service  - dispensa 10/REST.md",
     "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
     "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
     "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",

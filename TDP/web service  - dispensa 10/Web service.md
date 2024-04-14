@@ -11,7 +11,7 @@ La necessità era però quella di avere la totale interoperabilità tra sistemi 
 I primi esempi di realizzazione RPC sono basati su XML come linguaggio di markup per lo scambio permettendo di usare qualsiasi linguaggio di programmazione.
 
 > [!NOTE] RPC
-> RPC sta per Remote Procedure Call, ovvero un processo attivato da un computer diverso da quello da cui si esegue il programma (ad esempio le API)
+> RPC sta per Remote Procedure Call, ovvero un processo attivato da un computer diverso da quello da cui si esegue il programma (ad esempio le API con protocollo [[SOAP]])
 
 ## Caratteristiche di un web service
 Un web service deve essere:
