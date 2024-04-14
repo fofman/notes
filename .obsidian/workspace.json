@@ -23,9 +23,11 @@
             "id": "8bdec68b3d770fd3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.5.12"
+                "file": "TDP/web service  - dispensa 10/SOAP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+                "file": "TDP/web service  - dispensa 10/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+                "file": "TDP/web service  - dispensa 10/SOAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md"
+                "file": "TDP/web service  - dispensa 10/SOAP.md"
               }
             }
           },
@@ -168,18 +170,18 @@
   },
   "active": "8bdec68b3d770fd3",
   "lastOpenFiles": [
-    "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
-    "TDP/web service  - dispensa 10/SOAP.md",
-    "TDP/web service  - dispensa 10/mappa.canvas",
-    "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
     "TDP/web service  - dispensa 10/Web service.md",
+    "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
+    "TDP/web service  - dispensa 10/mappa.canvas",
+    "TDP/web service  - dispensa 10/Architettura SOA.md",
+    "TDP/web service  - dispensa 10/SOAP.md",
+    "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
     "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/UDP.md",
     "TDP/comunicazione di rete - dispensa 8/TCP.md",
     "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
     "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
     "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
-    "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
     "TDP/web service  - dispensa 10",

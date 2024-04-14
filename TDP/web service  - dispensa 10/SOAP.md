@@ -1,1 +1,1 @@
-S
+SOAP è un protocollo per lo scambio di messaggi per l'invocazione di servizi in ambito web con chiamate RPC che v
