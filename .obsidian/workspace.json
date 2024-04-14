@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 319.5,
+    "collapsed": true
   },
   "right": {
     "id": "a8fbbbe06ef239ab",
@@ -168,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bdec68b3d770fd3",
+  "active": "54b30e9c6d2e579e",
   "lastOpenFiles": [
     "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
