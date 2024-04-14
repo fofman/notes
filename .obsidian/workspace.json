@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+                "file": "TDP/web service  - dispensa 10/SOAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+                "file": "TDP/web service  - dispensa 10/SOAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md"
+                "file": "TDP/web service  - dispensa 10/SOAP.md"
               }
             }
           },
@@ -169,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54b30e9c6d2e579e",
+  "active": "8bdec68b3d770fd3",
   "lastOpenFiles": [
+    "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
     "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
-    "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
     "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
     "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
