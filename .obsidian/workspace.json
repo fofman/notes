@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md",
+                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md",
+                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md"
+                "file": "TDP/connessione tramite socket - dispensa 9/Stream socket.md"
               }
             }
           },
