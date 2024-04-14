@@ -16,7 +16,8 @@
 		{"id":"4df7091401c1197c","type":"file","file":"TDP/web service  - dispensa 10/scambio di dati - xml.md","x":251,"y":-651,"width":400,"height":342},
 		{"id":"03343819f6f29155","type":"file","file":"TDP/web service  - dispensa 10/REST.md","x":551,"y":480,"width":400,"height":400},
 		{"id":"10fda1e60095150c","type":"file","file":"TDP/web service  - dispensa 10/SOAP.md","x":-650,"y":480,"width":400,"height":400},
-		{"id":"8beab248a5699ffe","x":34,"y":650,"width":250,"height":60,"color":"4","type":"text","text":"Metodi CRUD"}
+		{"id":"8beab248a5699ffe","type":"text","text":"Metodi CRUD","x":34,"y":650,"width":250,"height":60,"color":"2"},
+		{"id":"aff79b55828d308c","x":-41,"y":800,"width":400,"height":440,"type":"file","file":"TDP/web service  - dispensa 10/CRUD.md"}
 	],
 	"edges":[
 		{"id":"20deac0b912a2311","fromNode":"88f31902dcb9bbc1","fromSide":"right","toNode":"f91b19ce5fae4ad0","toSide":"left"},
@@ -34,6 +35,7 @@
 		{"id":"887f60feaed4ac2d","fromNode":"4df7091401c1197c","fromSide":"bottom","toNode":"6f899d3c475f912c","toSide":"top"},
 		{"id":"7e84fbb18474d69b","fromNode":"972c0fc6b6b056ab","fromSide":"left","toNode":"10fda1e60095150c","toSide":"top"},
 		{"id":"5ecb2789d87b862c","fromNode":"3b57ca2cbfbea962","fromSide":"right","toNode":"03343819f6f29155","toSide":"top"},
-		{"id":"7069c484731a3643","fromNode":"3b57ca2cbfbea962","fromSide":"left","toNode":"8beab248a5699ffe","toSide":"top"}
+		{"id":"7069c484731a3643","fromNode":"3b57ca2cbfbea962","fromSide":"left","toNode":"8beab248a5699ffe","toSide":"top"},
+		{"id":"2c42083d7f19d95e","fromNode":"8beab248a5699ffe","fromSide":"bottom","toNode":"aff79b55828d308c","toSide":"top"}
 	]
 }

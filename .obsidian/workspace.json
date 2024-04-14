@@ -23,11 +23,14 @@
             "id": "8bdec68b3d770fd3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TDP/web service  - dispensa 10/CRUD.md",
-                "mode": "source",
-                "source": false
+                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "viewState": {
+                  "x": 150.5,
+                  "y": 367.90997818974927,
+                  "zoom": -0.9414831926711377
+                }
               }
             }
           }
@@ -98,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/CRUD.md",
+                "file": "TDP/web service  - dispensa 10/mappa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/CRUD.md",
+                "file": "TDP/web service  - dispensa 10/mappa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/CRUD.md"
+                "file": "TDP/web service  - dispensa 10/mappa.canvas"
               }
             }
           },
@@ -170,8 +173,8 @@
   },
   "active": "8bdec68b3d770fd3",
   "lastOpenFiles": [
-    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/CRUD.md",
+    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/web service  - dispensa 10/Web service.md",
     "TDP/web service  - dispensa 10/scambio di dati - xml.md",
