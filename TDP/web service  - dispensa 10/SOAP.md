@@ -1,3 +1,3 @@
 SOAP (Simple Object Access Protocol) è un ==protocollo== per lo scambio di messaggi per l'invocazione di servizi in ambito web basandosi su un ==modello client-server== con chiamate RPC che veniva già utilizzato da protocolli come CORBA, DCOM e RMI.
 ## Ciclo di vita
-1. **Pubblicazione**: il fornitore del servizio deve creare un ==documento WSDL== ovvero un documento XML che contiene la descrizione dei servizi che offre, quindi il nome dei metodi, i dati attesi in entrata e in uscita. Dopo la creazione di questo documento  
+1. **Pubblicazione**: il fornitore del servizio deve creare un ==documento WSDL== ovvero un documento XML che contiene la descrizione dei servizi che offre, quindi il nome dei metodi, i dati attesi in entrata e in uscita. Dopo la creazione del documento WSDL esso dovrà essere pubblicato in un registro che rispetto lo ==standard UDDI== che agisce da pagine gialle per il servizio che può essere rintracciato tramite ==chiamate di discovery==
