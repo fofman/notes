@@ -8,11 +8,11 @@
 		{"id":"bb7ca71dcf973043","type":"text","text":"Architettura SOA","x":25,"y":120,"width":250,"height":60,"color":"2"},
 		{"id":"972c0fc6b6b056ab","type":"text","text":"SOAP","x":-91,"y":296,"width":116,"height":60,"color":"2"},
 		{"id":"3b57ca2cbfbea962","type":"text","text":"REST","x":275,"y":296,"width":111,"height":60,"color":"2"},
-		{"id":"14a4fb63defb5a70","type":"text","text":"Invocazione servizi remoti","x":-216,"y":480,"width":250,"height":60,"color":"2"},
-		{"id":"b5649f8d3c6c76c8","type":"text","text":"Descrizione di risorse","x":251,"y":480,"width":250,"height":60,"color":"2"},
 		{"id":"6af6dd74bb24fa18","type":"text","text":"Architetture completamente distribuite","x":-580,"y":-125,"width":260,"height":70,"color":"2"},
 		{"id":"449507ef2a423198","type":"file","file":"TDP/web service  - dispensa 10/Web service.md","x":-300,"y":-680,"width":400,"height":400},
-		{"id":"09fa87400eca6d8c","x":-580,"y":55,"width":400,"height":190,"type":"file","file":"TDP/web service  - dispensa 10/Architettura SOA.md"}
+		{"id":"09fa87400eca6d8c","type":"file","file":"TDP/web service  - dispensa 10/Architettura SOA.md","x":-580,"y":55,"width":400,"height":190},
+		{"id":"b5649f8d3c6c76c8","type":"text","text":"Descrizione di risorse","x":261,"y":480,"width":250,"height":60,"color":"2"},
+		{"id":"14a4fb63defb5a70","type":"text","text":"Invocazione servizi remoti","x":-216,"y":480,"width":250,"height":60,"color":"2"}
 	],
 	"edges":[
 		{"id":"20deac0b912a2311","fromNode":"88f31902dcb9bbc1","fromSide":"right","toNode":"f91b19ce5fae4ad0","toSide":"left"},
