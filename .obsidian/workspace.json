@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md",
+                "file": "TDP/web service  - dispensa 10/REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "right": {
     "id": "a8fbbbe06ef239ab",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md",
+                "file": "TDP/web service  - dispensa 10/REST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md",
+                "file": "TDP/web service  - dispensa 10/REST.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/SOAP.md"
+                "file": "TDP/web service  - dispensa 10/REST.md"
               }
             }
           },
@@ -171,13 +170,14 @@
   },
   "active": "8bdec68b3d770fd3",
   "lastOpenFiles": [
+    "TDP/web service  - dispensa 10/SOAP.md",
+    "TDP/web service  - dispensa 10/REST.md",
     "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
     "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
     "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
-    "TDP/web service  - dispensa 10/SOAP.md",
     "TDP/web service  - dispensa 10/Web service.md",
     "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/mappa.canvas",

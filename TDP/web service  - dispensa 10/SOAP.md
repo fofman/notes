@@ -15,6 +15,6 @@ La struttura dei messaggi XML è formata da:
 La presenza di regole che aumentano la complessità di realizzazione ed e i tempi di elaborazione.
 Oltre a questa struttura bisogna seguire standard di conformità, dettati dalle proprietà ACID:
 - **(A) Atomicità**: deve essere salvato tutto o niente, in una serie di transazioni collegate fra loro in caso di problemi bisogna scartare tutte le operazioni eseguite.
-- (C) Consistenza: bisogna salvare solo i dati validi senza errori.
-- (I) Isolamento: le transazioni
-- (D) Durabilità: i dati devono essere protetti in caso di problemi del sistema
+- **(C) Consistenza**: bisogna salvare solo i dati validi senza errori.
+- **(I) Isolamento**: le transazioni sono indipendenti fra loro.
+- **(D) Durabilità**: i dati devono essere protetti in caso di problemi del sistema garantendo l'integrità.
