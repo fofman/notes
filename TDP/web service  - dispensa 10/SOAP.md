@@ -1,1 +1,1 @@
-SOAP è un protocollo per lo scambio di messaggi per l'invocazione di servizi in ambito web con chiamate RPC che v
+SOAP (Simple Object Access Protocol) è un ==protocollo== per lo scambio di messaggi per l'invocazione di servizi in ambito web basandosi su un ==modello client-server== con chiamate RPC che veniva già utilizzato da protocolli come CORBA, DCOM e RMI.
