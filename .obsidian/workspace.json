@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDP/web service  - dispensa 10/Untitled.md",
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/Untitled.md",
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/Untitled.md",
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/Untitled.md"
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md"
               }
             }
           },
@@ -158,7 +158,7 @@
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
     "TDP/web service  - dispensa 10/mappa.canvas",
-    "TDP/web service  - dispensa 10/Untitled.md",
+    "TDP/web service  - dispensa 10/scambio di dati - xml.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/web service  - dispensa 10/Web service.md",
