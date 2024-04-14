@@ -11,14 +11,11 @@
             "id": "df95cc50c3c57174",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
-                "viewState": {
-                  "x": 44,
-                  "y": -70,
-                  "zoom": -0.8626919501397875
-                }
+                "file": "TDP/web service  - dispensa 10/Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/web service  - dispensa 10/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/web service  - dispensa 10/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas"
+                "file": "TDP/web service  - dispensa 10/Untitled.md"
               }
             }
           },
@@ -158,10 +155,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54b30e9c6d2e579e",
+  "active": "df95cc50c3c57174",
   "lastOpenFiles": [
-    "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/web service  - dispensa 10/mappa.canvas",
+    "TDP/web service  - dispensa 10/Untitled.md",
+    "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/web service  - dispensa 10/Web service.md",
     "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
