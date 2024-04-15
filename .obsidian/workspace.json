@@ -11,11 +11,14 @@
             "id": "df95cc50c3c57174",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
-                "mode": "source",
-                "source": false
+                "file": "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
+                "viewState": {
+                  "x": 42.5,
+                  "y": 390,
+                  "zoom": -0.7807743229542873
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
+                "file": "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
+                "file": "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md"
+                "file": "TDP/connessione tramite socket - dispensa 9/mappa.canvas"
               }
             }
           },
@@ -157,30 +160,30 @@
   },
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
-    "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
-    "TDP/comunicazione di rete - dispensa 8/Socket.md",
-    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
-    "TDP/comunicazione di rete - dispensa 8/UDP.md",
     "TDP/comunicazione di rete - dispensa 8/TCP.md",
-    "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
-    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/CRUD.md",
+    "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
+    "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
+    "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
+    "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
+    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+    "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
+    "TDP/comunicazione di rete - dispensa 8/Socket.md",
+    "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
+    "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
+    "TDP/comunicazione di rete - dispensa 8/Association.md",
+    "TDP/comunicazione di rete - dispensa 8/UDP.md",
+    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
     "TDP/web service  - dispensa 10/REST.md",
     "TDP/web service  - dispensa 10/SOAP.md",
     "TDP/web service  - dispensa 10/Web service.md",
     "TDP/web service  - dispensa 10/scambio di dati - xml.md",
     "Untitled.canvas",
-    "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
     "XML.md",
     "TDP/web service  - dispensa 10/Scambio di dati - XML.md",
-    "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
-    "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
-    "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
-    "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
     "TDP/web service  - dispensa 10",
-    "TDP/comunicazione di rete - dispensa 8/Association.md",
     "TDP/connessione tramite socket - dispensa 9",
     "TDP/Untitled.md",
     "TDP/comunicazione di rete - dispensa 8",
