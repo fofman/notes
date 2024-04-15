@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md",
+                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md",
+                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md",
+                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md"
+                "file": "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md"
               }
             }
           },
@@ -157,10 +157,11 @@
   },
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
-    "TDP/comunicazione di rete - dispensa 8/TCP.md",
-    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
     "TDP/comunicazione di rete - dispensa 8/Socket.md",
+    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+    "TDP/comunicazione di rete - dispensa 8/UDP.md",
+    "TDP/comunicazione di rete - dispensa 8/TCP.md",
     "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
     "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/CRUD.md",
@@ -176,7 +177,6 @@
     "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
     "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
-    "TDP/comunicazione di rete - dispensa 8/UDP.md",
     "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
     "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
     "TDP/web service  - dispensa 10",
