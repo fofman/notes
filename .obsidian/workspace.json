@@ -11,14 +11,11 @@
             "id": "df95cc50c3c57174",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
-                "viewState": {
-                  "x": 115.5,
-                  "y": 583.0805437791721,
-                  "zoom": -1.098950282980542
-                }
+                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas"
+                "file": "TDP/comunicazione di rete - dispensa 8/UDP.md"
               }
             }
           },
@@ -160,13 +157,17 @@
   },
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
+    "TDP/comunicazione di rete - dispensa 8/TCP.md",
+    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+    "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
+    "TDP/comunicazione di rete - dispensa 8/Socket.md",
+    "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
+    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/CRUD.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
-    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/REST.md",
     "TDP/web service  - dispensa 10/SOAP.md",
     "TDP/web service  - dispensa 10/Web service.md",
-    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/web service  - dispensa 10/scambio di dati - xml.md",
     "Untitled.canvas",
     "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
@@ -176,13 +177,9 @@
     "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
     "TDP/comunicazione di rete - dispensa 8/UDP.md",
-    "TDP/comunicazione di rete - dispensa 8/TCP.md",
-    "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
     "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
-    "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
     "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
     "TDP/web service  - dispensa 10",
-    "TDP/comunicazione di rete - dispensa 8/Socket.md",
     "TDP/comunicazione di rete - dispensa 8/Association.md",
     "TDP/connessione tramite socket - dispensa 9",
     "TDP/Untitled.md",
