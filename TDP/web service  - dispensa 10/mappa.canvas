@@ -16,8 +16,8 @@
 		{"id":"aff79b55828d308c","type":"file","file":"TDP/web service  - dispensa 10/CRUD.md","x":-41,"y":800,"width":400,"height":440},
 		{"id":"449507ef2a423198","type":"file","file":"TDP/web service  - dispensa 10/Web service.md","x":-320,"y":-680,"width":400,"height":400},
 		{"id":"88f31902dcb9bbc1","type":"text","text":"Web Service","x":-200,"y":-120,"width":160,"height":60,"color":"1"},
-		{"id":"4df7091401c1197c","type":"file","file":"TDP/web service  - dispensa 10/scambio di dati - xml.md","x":301,"y":-651,"width":400,"height":342},
-		{"id":"10fda1e60095150c","type":"file","file":"TDP/web service  - dispensa 10/SOAP.md","x":-720,"y":480,"width":400,"height":400}
+		{"id":"10fda1e60095150c","type":"file","file":"TDP/web service  - dispensa 10/SOAP.md","x":-720,"y":480,"width":400,"height":400},
+		{"id":"4df7091401c1197c","type":"file","file":"TDP/web service  - dispensa 10/scambio di dati - xml.md","x":301,"y":-651,"width":400,"height":342}
 	],
 	"edges":[
 		{"id":"20deac0b912a2311","fromNode":"88f31902dcb9bbc1","fromSide":"right","toNode":"f91b19ce5fae4ad0","toSide":"left"},

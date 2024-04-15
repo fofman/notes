@@ -11,14 +11,11 @@
             "id": "df95cc50c3c57174",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
-                "viewState": {
-                  "x": -245,
-                  "y": -121,
-                  "zoom": -0.43291278394850113
-                }
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas"
+                "file": "TDP/web service  - dispensa 10/Architettura SOA.md"
               }
             }
           },
@@ -161,9 +158,10 @@
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
     "TDP/web service  - dispensa 10/mappa.canvas",
+    "TDP/web service  - dispensa 10/Web service.md",
+    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/web service  - dispensa 10/SOAP.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
-    "TDP/web service  - dispensa 10/Web service.md",
     "TDP/web service  - dispensa 10/scambio di dati - xml.md",
     "Untitled.canvas",
     "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
@@ -174,7 +172,6 @@
     "TDP/connessione tramite socket - dispensa 9/Utilizzo dei socket.md",
     "TDP/connessione tramite socket - dispensa 9/Socket a datagrammi.md",
     "TDP/connessione tramite socket - dispensa 9/Multicast.md",
-    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/UDP.md",
     "TDP/comunicazione di rete - dispensa 8/TCP.md",
     "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
