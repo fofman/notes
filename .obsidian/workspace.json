@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
                 "viewState": {
-                  "x": 239.58875833746197,
-                  "y": 537.3735690141528,
-                  "zoom": -0.3333333333333332
+                  "x": -245,
+                  "y": -121,
+                  "zoom": -0.43291278394850113
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/web service  - dispensa 10/mappa.canvas"
+                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas"
               }
             }
           },
@@ -160,9 +160,9 @@
   },
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
+    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/SOAP.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
-    "TDP/web service  - dispensa 10/mappa.canvas",
     "TDP/web service  - dispensa 10/Web service.md",
     "TDP/web service  - dispensa 10/scambio di dati - xml.md",
     "Untitled.canvas",
