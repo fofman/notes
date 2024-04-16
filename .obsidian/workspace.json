@@ -15,8 +15,8 @@
               "state": {
                 "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
                 "viewState": {
-                  "x": -245,
-                  "y": -15.861362551983987,
+                  "x": -209.9536649915907,
+                  "y": 153.71699533396637,
                   "zoom": -0.5715419849588347
                 }
               }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/Socket.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "TDP/comunicazione di rete - dispensa 8/Socket.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas"
+                "file": "TDP/comunicazione di rete - dispensa 8/Socket.md"
               }
             }
           },
