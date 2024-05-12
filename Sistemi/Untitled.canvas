@@ -1,13 +1,19 @@
 {
 	"nodes":[
-		{"id":"e320309894ba0afe","x":-140,"y":-200,"width":250,"height":60,"color":"1","type":"text","text":"# Internet"},
-		{"id":"7614bd55292a4b2b","x":-77,"y":-420,"width":125,"height":60,"type":"text","text":"## Reti"},
-		{"id":"fdb21660e8a8544d","x":-443,"y":0,"width":303,"height":70,"color":"2","type":"text","text":"# Stack ISO-OSI"},
-		{"id":"a69f8f6dea66843e","x":-960,"y":0,"width":250,"height":60,"color":"3","type":"text","text":"## 7 Livelli"}
+		{"id":"e320309894ba0afe","type":"text","text":"# Internet","x":-140,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"7614bd55292a4b2b","type":"text","text":"## Reti","x":-77,"y":-420,"width":125,"height":60},
+		{"id":"fdb21660e8a8544d","type":"text","text":"# Stack ISO-OSI","x":-443,"y":0,"width":303,"height":70,"color":"2"},
+		{"id":"a69f8f6dea66843e","type":"text","text":"## 7 Livelli","x":-960,"y":0,"width":250,"height":60,"color":"3"},
+		{"id":"a630396fcb29ab6c","type":"text","text":"## 1. Physical","x":-1360,"y":280,"width":250,"height":60},
+		{"id":"f3343a40f5bdd3d3","x":-1360,"y":70,"width":250,"height":60,"type":"text","text":"## 3. Network"},
+		{"id":"3c6c64532cf394cc","x":-1360,"y":160,"width":250,"height":60,"type":"text","text":"## 2. Data Link"}
 	],
 	"edges":[
 		{"id":"e788295a28568030","fromNode":"e320309894ba0afe","fromSide":"top","toNode":"7614bd55292a4b2b","toSide":"bottom","label":"Realizzato tramite"},
 		{"id":"6df59d1853bf0d49","fromNode":"e320309894ba0afe","fromSide":"bottom","toNode":"fdb21660e8a8544d","toSide":"right","label":"Comunicazione"},
-		{"id":"f11bd612c4790640","fromNode":"fdb21660e8a8544d","fromSide":"left","toNode":"a69f8f6dea66843e","toSide":"right","label":"Composto da"}
+		{"id":"f11bd612c4790640","fromNode":"fdb21660e8a8544d","fromSide":"left","toNode":"a69f8f6dea66843e","toSide":"right","label":"Composto da"},
+		{"id":"7deb9b0e1681f80f","fromNode":"a69f8f6dea66843e","fromSide":"left","toNode":"a630396fcb29ab6c","toSide":"right","toEnd":"none"},
+		{"id":"42bdaf16ea9f7b46","fromNode":"a69f8f6dea66843e","fromSide":"left","toNode":"3c6c64532cf394cc","toSide":"right","toEnd":"none"},
+		{"id":"0d08e3045c0477d2","fromNode":"a69f8f6dea66843e","fromSide":"left","toNode":"f3343a40f5bdd3d3","toSide":"right"}
 	]
 }
