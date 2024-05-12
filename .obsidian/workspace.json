@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "Sistemi/Untitled.canvas",
                 "viewState": {
-                  "x": -209.9536649915907,
-                  "y": 153.71699533396637,
-                  "zoom": -0.5715419849588347
+                  "x": -108.89170445237663,
+                  "y": -93.92435419611712,
+                  "zoom": -1.0286019887467663
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "Sistemi/Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+                "file": "Sistemi/Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TDP/comunicazione di rete - dispensa 8/mappa.canvas"
+                "file": "Sistemi/Untitled.canvas"
               }
             }
           },
@@ -160,6 +160,10 @@
   },
   "active": "df95cc50c3c57174",
   "lastOpenFiles": [
+    "index.md",
+    "Sistemi/Untitled.canvas",
+    "Sistemi",
+    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
     "TDP/web service  - dispensa 10/CRUD.md",
     "TDP/web service  - dispensa 10/Architettura SOA.md",
@@ -169,7 +173,6 @@
     "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/TCP.md",
     "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
-    "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/Socket.md",
     "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
     "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
