@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df95cc50c3c57174",
+            "id": "da6b60e63b34c36f",
             "type": "leaf",
             "state": {
               "type": "canvas",
@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "da6b60e63b34c36f",
+            "id": "8d322b169b6d5acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "da6b60e63b34c36f",
+  "active": "8d322b169b6d5acc",
   "lastOpenFiles": [
-    "index.md",
-    "Sistemi/Il livello 4.md",
     "TDP/comunicazione di rete - dispensa 8/mappa.canvas",
+    "TDP/comunicazione di rete - dispensa 8/Socket.md",
+    "Sistemi/Il livello 4.md",
+    "index.md",
     "Sistemi/Untitled.canvas",
     "Sistemi",
     "TDP/comunicazione di rete - dispensa 8/Applicazione di rete.md",
@@ -187,7 +188,6 @@
     "TDP/connessione tramite socket - dispensa 9/mappa.canvas",
     "TDP/comunicazione di rete - dispensa 8/TCP.md",
     "TDP/connessione tramite socket - dispensa 9/Stream socket.md",
-    "TDP/comunicazione di rete - dispensa 8/Socket.md",
     "TDP/comunicazione di rete - dispensa 8/Protocollo di comunicazione.md",
     "TDP/comunicazione di rete - dispensa 8/Le porte logiche.md",
     "TDP/comunicazione di rete - dispensa 8/Association.md",
