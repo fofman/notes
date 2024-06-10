@@ -3,4 +3,4 @@ Ogni host solitamente possiede una sola porta fisica che riceve dati in entrata 
 Il livello 4 lavora su dei pacchetti chiamati *segmenti*.
 Il livello 4 esegue la ==frammentazione== per rispettare la lunghezza massima dei pacchetti includendo i dati per ricostruire il pacchetto all'arrivo.
 I livello 4 può eseguire il ==controllo di flusso== per protocolli connessi come [[TCP]].
-Inoltre viene eseguito il ==controllo dell'errore== con tecniche come il checksum
+Inoltre viene eseguito il ==controllo dell'errore== con tecniche come il checksum.
